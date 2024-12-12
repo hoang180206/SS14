@@ -2,7 +2,7 @@
 #include<string.h> 
 #include<ctype.h> 
 int main(){
-	char text[]="abcxyz123@";
+	char text[]="12345hg";
 	int countCharacterText=0;
 	int countCharacterNum=0;
 	int countCharacterSpecial=0;
